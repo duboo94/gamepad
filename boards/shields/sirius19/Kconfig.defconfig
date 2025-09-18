@@ -1,7 +1,7 @@
 if SHIELD_SIRIUS19_DONGLE
 
 config ZMK_KEYBOARD_NAME
-    default "SIRIUS19 gamepad"
+    default "SIRIUS"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
