@@ -1,0 +1,12 @@
+layers:
+  DEF:
+    - [구르기, 포션, ESC, 포탈, SHIFT, CTRL, G, I, C, P]
+    - [좌클릭, 우클릭, "", "", "", Q, W, E, R]
+    - {t: JOYSTICK (WASD)}
+    - {t: TRACKBALL}
+    
+  FUN:
+    - [{t: "", type: held}, "", "", "", 9, 0, 5, 6, 7, 8]
+    - [좌클릭, 휠클릭, BSPC, DEL, ENTER, 1, 2, 3, 4]
+    - {t: JOYSTICK (ARROW)}
+    - {t: TRACKBALl}
