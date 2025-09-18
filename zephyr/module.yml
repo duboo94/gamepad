@@ -1,0 +1,4 @@
+name: momo
+build:
+  settings:
+    board_root: .

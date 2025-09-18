@@ -1,0 +1,19 @@
+#include "sirius19.dtsi"
+#include "pmw3610.dtsi"
+#include "input_common.dtsi"
+
+&spi0 {
+    status = "okay";
+};
+
+&adc {
+	status = "okay";
+};
+
+&trackball_split { 
+	status = "disabled"; 
+};
+
+&joystick_split { 
+	device = <&joystick>; 
+};

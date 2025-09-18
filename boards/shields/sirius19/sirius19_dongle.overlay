@@ -1,0 +1,11 @@
+#include "sirius19.dtsi"
+#include "pmw3610.dtsi"
+#include "input_common.dtsi"
+
+&trackball_listener {
+    status = "okay";
+};
+
+&joystick_listener {
+    status = "okay";
+};

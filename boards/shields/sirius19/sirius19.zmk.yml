@@ -1,0 +1,9 @@
+file_format: "1"
+id: sirius19
+name: sirius19
+type: shield
+url: https://github.com/duboo94/sirius19
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  - pointer
